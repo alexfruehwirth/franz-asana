@@ -1,0 +1,23 @@
+{
+  "name": "asana",
+  "version": "1.0.0",
+  "description": "asana – Messengers for Business",
+  "main": "index.js",
+  "author": "Alexander Frühwirth <alexander>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.asana.com/",
+    "serviceName": "asana",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
