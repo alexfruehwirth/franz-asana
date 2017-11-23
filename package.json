@@ -1,4 +1,5 @@
 {
+  "id": "asana",
   "name": "asana",
   "version": "1.0.0",
   "description": "asana – Messengers for Business",
@@ -13,7 +14,7 @@
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
     "hasTeamID": false,
-    "customURL": false,
+    "hasCustomURL": false,
     "hostedOnly": false,
     "webviewOptions": {
       "disablewebsecurity": ""
